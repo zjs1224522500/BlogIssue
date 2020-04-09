@@ -1,6 +1,6 @@
 ## Blog Issues
 - Blog post governed by Github Issues.
-- Original website [Github Page](http://zjs1224522500.github.io)
+- Original website [Github Page](https://zjs1224522500.github.io)
 
 ## Index
 - [基础总结](https://github.com/zjs1224522500/BlogIssue/labels/%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93)
