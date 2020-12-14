@@ -21,6 +21,7 @@
 
 ## Other Doc Website
 - [Wangdao](https://wangdoc.com/)
+- [cheat.sh](https://github.com/chubin/cheat.sh)
 
 ### What's more
 - Store some images for blog.
