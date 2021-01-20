@@ -11,8 +11,13 @@
   - [Server boot/shutdown/task](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-653284404)
   - [Server Info](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-555008175)
   - [Performance Test]()
-    - [Cache/blktrace](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-669746771)
-    - [FIO](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-683724376)
+    - Storage
+      - [Cache/blktrace](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-669746771)
+      - [FIO](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-683724376)
+    - Network
+      - [网络监控/性能测试](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-763738604)
+      - [网络代理](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-763739320)
+
 - [Git 常用命令](https://github.com/zjs1224522500/BlogIssue/issues/14)
 - [基础总结](https://github.com/zjs1224522500/BlogIssue/labels/%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93)
 - [编程语言](https://github.com/zjs1224522500/BlogIssue/issues?q=label%3A%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
