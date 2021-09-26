@@ -11,6 +11,7 @@
   - [ssh](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-603275584)
   - [Server boot/shutdown/task](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-653284404)
   - [Server Info](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-555008175)
+    - [Disk Smart Info](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-927256055) 
   - [Performance Test]()
     - Storage
       - [Cache/blktrace](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-669746771)
