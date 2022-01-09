@@ -5,6 +5,7 @@
 ## Index
 - [Ceph 常用命令](https://github.com/zjs1224522500/BlogIssue/issues/18)
 - [Linux 常用命令](https://github.com/zjs1224522500/BlogIssue/issues/17)
+  - [服务器安全相关](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-975019095) 
   - [Linux 就该这么学：新手必须掌握的Linux命令](https://www.linuxprobe.com/chapter-02.html)
   - [ps](https://github.com/zjs1224522500/BlogIssue/issues/17#issue-467810334)
   - [grep](https://github.com/zjs1224522500/BlogIssue/issues/17#issuecomment-990889193)
